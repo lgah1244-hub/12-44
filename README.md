@@ -1,0 +1,1 @@
+This web application uses a Random Forest machine learning model to predict early hospital readmission risks for diabetes patients. Built with Streamlit, it provides real-time risk assessments to help evaluate patient care post-discharge.
